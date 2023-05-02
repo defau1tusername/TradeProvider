@@ -29,7 +29,7 @@ public class TradeProvider
         var workbook = (XLWorkbook)null;
         while (workbook == null)
         {
-            Console.WriteLine("Введите путь до файла: ");
+            Console.Write("Введите путь до файла: ");
             var path = Console.ReadLine();
             try
             {
