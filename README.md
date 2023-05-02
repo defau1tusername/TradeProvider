@@ -16,7 +16,7 @@
   <img src="https://i.ibb.co/SdYbGZc/image.png" width="700" title="hover text">
 </details>
 <details> 
-  <summary>Обработка команды "изменить"</summary>
+  <summary>Обработка команды "изменить контактное лицо"</summary>
   <img src="https://i.ibb.co/dDW9GvX/image.png" width="700" title="hover text">
 </details>
 <details> 
