@@ -37,7 +37,7 @@ public class TradeProvider
             }
             catch (Exception)
             {
-                Console.WriteLine("Невероный путь до файла, введите еще раз:");
+                Console.WriteLine("Невероный путь до файла");
             }
         }
 
